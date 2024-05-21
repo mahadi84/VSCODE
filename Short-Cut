@@ -1,17 +1,19 @@
 Date: 16-May-2024
 
 
+Add cursors to all matching selections:-Ctrl + Shift + L 
+Find and Replace:----------------------Ctrl + H 
+Select Current Line: ------------------Ctrl + L 
+Delete the previous Word:--------------Ctrl + Backspace 
+
+
 HTML boilerplate: ----------------------! + TAB 
 Open the palette to search for a file:--Ctrl + P 
-Add cursors to all matching selections:-Ctrl + Shift + L 
 Undo:  ---------------------------------Ctrl + U 
-Select Current Line: ------------------Ctrl + L 
 Zen Mode: -----------------------------Ctrl + K Z 
 Toggle Sidebar:------------------------Ctrl + B 
 Search Global Files:-------------------Ctrl + Shift + F 
 Search on file:------------------------Ctrl + F 
-Find and Replace:----------------------Ctrl + H 
-Delete the previous Word:--------------Ctrl + Backspace 
 Move line up/Down:---------------------Alt + up/down arrow 
 Add multiple cursors:------------------Ctrl + Alt +up/down arrow
 Comment Line:--------------------------Ctrl + / 
@@ -20,7 +22,7 @@ Split View:---------------------------Ctrl + \
 Switch Between views:-----------------Ctrl +1, Ctrl + 2 .. 
 Duplicate Line:-----------------------Alt + Shift + up/down 
 Navigate to a specific line:----------Ctrl + g 
-Open Terminal:------------------------Ctrl + ` 
+Open Terminal:------------------------Ctrl + j 
 To Close a TAB:-----------------------Ctrl + W 
 To Close all TAB:---------------------Ctrl + Shift + W 
 
