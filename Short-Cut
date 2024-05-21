@@ -2,10 +2,13 @@ Date: 16-May-2024
 
 
 Add cursors to all matching selections:-Ctrl + Shift + L 
-Find and Replace:----------------------Ctrl + H 
+Find and Replace:----------------------Ctrl + H
+Replace ------------------------------- Ctrl+Alt+Enter
 Select Current Line: ------------------Ctrl + L 
 Delete the previous Word:--------------Ctrl + Backspace 
+To Close a TAB:-----------------------Ctrl + W 
 
+Navigate to a specific line:----------Ctrl + g 
 
 HTML boilerplate: ----------------------! + TAB 
 Open the palette to search for a file:--Ctrl + P 
@@ -21,9 +24,7 @@ Comment Line:-------------------------Ctrl + K + Ctrl + C
 Split View:---------------------------Ctrl + \ 
 Switch Between views:-----------------Ctrl +1, Ctrl + 2 .. 
 Duplicate Line:-----------------------Alt + Shift + up/down 
-Navigate to a specific line:----------Ctrl + g 
 Open Terminal:------------------------Ctrl + j 
-To Close a TAB:-----------------------Ctrl + W 
 To Close all TAB:---------------------Ctrl + Shift + W 
 
 
