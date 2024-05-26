@@ -1,10 +1,28 @@
 
-01. Live Server
-02. Live Sass Compiler extension
+01. Live Server -By Ritwick Dey
+
+02. Live Sass Compiler -By Glenn Marks
+       >>>Go to settings and add below line into end of the file
+        "liveSassCompile.settings.formats": [{
+          "format": "expanded",
+          "extensionName": ".css",
+          "savePath": "css"
+        }]
+
+      ***If does not show the "Watch" bottom of the VS-CODE Follow the steps belwo
         Press F1 or Ctrl+Shift+P and type:
         Live Sass: Watch Sass to start live compilation.
         Live Sass: Stop Watching Sass to stop live compilation.
         Live Sass: Compile Sass - Without Watch Mode to compile Sass or SCSS for a one-time build
-03. Bootstrap 05
-04. Wordpress
+
+03. Bootstrap 5 Quick Snippets  -By Anbuselvan Rocky
+
+04. WordPress Snippets  -By wpprotools.io
+
 05. Laravel 
+        - Laravel Blade Snippets  -By Winnie Lin
+        - Laravel Snippets  -By Winnie Lin
+        - Laravel Artisan  -By Ryan Naddy
+        - Laravel goto view -codingyu
+        - Laravel-jump-controller -By pgl
+        - Laravel Extra Intellisense -By amir        
