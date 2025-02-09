@@ -1,6 +1,9 @@
 Date: 16-May-2024
 
+How to set:
+Click File -> Preferences -> Keyboard shortcuts
 
+DEFAULT:
 Add cursors to all matching selections:-Ctrl + Shift + L 
 Find and Replace:----------------------Ctrl + H
 Replace ------------------------------- Ctrl+Alt+Enter
