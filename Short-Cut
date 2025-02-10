@@ -6,6 +6,7 @@ OR
 Ctrl+K and S
 
 DEFAULT:
+Create Constructor: declare a variable, place the cursor inside the class, and press (Ctrl+.) 
 Add cursors to all matching selections:-Ctrl + Shift + L 
 Find and Replace:----------------------Ctrl + H
 Replace ------------------------------- Ctrl+Alt+Enter
